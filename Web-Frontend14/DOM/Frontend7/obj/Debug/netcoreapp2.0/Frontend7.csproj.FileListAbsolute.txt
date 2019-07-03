@@ -1,0 +1,11 @@
+C:\Users\пк\Source\Repos\Web-Frontend14\DOM\Frontend7\bin\Debug\netcoreapp2.0\Frontend7.deps.json
+C:\Users\пк\Source\Repos\Web-Frontend14\DOM\Frontend7\bin\Debug\netcoreapp2.0\Frontend7.runtimeconfig.json
+C:\Users\пк\Source\Repos\Web-Frontend14\DOM\Frontend7\bin\Debug\netcoreapp2.0\Frontend7.runtimeconfig.dev.json
+C:\Users\пк\Source\Repos\Web-Frontend14\DOM\Frontend7\bin\Debug\netcoreapp2.0\Frontend7.dll
+C:\Users\пк\Source\Repos\Web-Frontend14\DOM\Frontend7\bin\Debug\netcoreapp2.0\Frontend7.pdb
+C:\Users\пк\Source\Repos\Web-Frontend14\DOM\Frontend7\obj\Debug\netcoreapp2.0\Frontend7.csprojAssemblyReference.cache
+C:\Users\пк\Source\Repos\Web-Frontend14\DOM\Frontend7\obj\Debug\netcoreapp2.0\Frontend7.csproj.CoreCompileInputs.cache
+C:\Users\пк\Source\Repos\Web-Frontend14\DOM\Frontend7\obj\Debug\netcoreapp2.0\Frontend7.AssemblyInfoInputs.cache
+C:\Users\пк\Source\Repos\Web-Frontend14\DOM\Frontend7\obj\Debug\netcoreapp2.0\Frontend7.AssemblyInfo.cs
+C:\Users\пк\Source\Repos\Web-Frontend14\DOM\Frontend7\obj\Debug\netcoreapp2.0\Frontend7.dll
+C:\Users\пк\Source\Repos\Web-Frontend14\DOM\Frontend7\obj\Debug\netcoreapp2.0\Frontend7.pdb

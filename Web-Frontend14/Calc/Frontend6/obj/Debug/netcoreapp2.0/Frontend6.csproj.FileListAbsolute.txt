@@ -1,0 +1,11 @@
+C:\Users\пк\Source\Repos\Web-Frontend14\Calc\Frontend6\bin\Debug\netcoreapp2.0\Frontend6.deps.json
+C:\Users\пк\Source\Repos\Web-Frontend14\Calc\Frontend6\bin\Debug\netcoreapp2.0\Frontend6.runtimeconfig.json
+C:\Users\пк\Source\Repos\Web-Frontend14\Calc\Frontend6\bin\Debug\netcoreapp2.0\Frontend6.runtimeconfig.dev.json
+C:\Users\пк\Source\Repos\Web-Frontend14\Calc\Frontend6\bin\Debug\netcoreapp2.0\Frontend6.dll
+C:\Users\пк\Source\Repos\Web-Frontend14\Calc\Frontend6\bin\Debug\netcoreapp2.0\Frontend6.pdb
+C:\Users\пк\Source\Repos\Web-Frontend14\Calc\Frontend6\obj\Debug\netcoreapp2.0\Frontend6.csprojAssemblyReference.cache
+C:\Users\пк\Source\Repos\Web-Frontend14\Calc\Frontend6\obj\Debug\netcoreapp2.0\Frontend6.csproj.CoreCompileInputs.cache
+C:\Users\пк\Source\Repos\Web-Frontend14\Calc\Frontend6\obj\Debug\netcoreapp2.0\Frontend6.AssemblyInfoInputs.cache
+C:\Users\пк\Source\Repos\Web-Frontend14\Calc\Frontend6\obj\Debug\netcoreapp2.0\Frontend6.AssemblyInfo.cs
+C:\Users\пк\Source\Repos\Web-Frontend14\Calc\Frontend6\obj\Debug\netcoreapp2.0\Frontend6.dll
+C:\Users\пк\Source\Repos\Web-Frontend14\Calc\Frontend6\obj\Debug\netcoreapp2.0\Frontend6.pdb
